@@ -20,3 +20,6 @@
 
 - **[DragoonXVIII](https://github.com/dragoonxviii)**
 - **[Februu](https://github.com/februu)**
+
+> ### ⚠️ Important
+> We are the authors of **DrafuPack** modpack itself (the configuration, selection of mods, adjustments, and our own assets). We are **not** the authors of the individual mods included in this pack — full credit goes to the original mod creators. The only original content we created in this pack is **DrafuTexturPack** and **DrafuTeleporters**). If you want to reuse or distribute any of the included mods, please refer to the original mod licenses on **Modrinth** or the respective mod repositories.
